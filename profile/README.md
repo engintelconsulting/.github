@@ -1,6 +1,5 @@
 # Engineering and Telecoms Consulting (ETCONSULTING) 🚀
 
-![ETCONSULTING Logo](images/etc-logo-small.jpg)
 
 Bienvenue sur la page GitHub d'Engineering and Telecoms Consulting! 🌍💻
 
